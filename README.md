@@ -1,0 +1,4 @@
+A gantry crane is a crane built atop a gantry, which is a structure used to straddle an object or workspace. These are mostly used for outdoor yards, some examples are rail yards, shipping yards, steel yards and scrap yards.
+Portable gantry cranes are used to lift and hold something in place while it’s being worked on, fabricated, or assembled. The load isn’t necessarily being moved through the facility, but the gantry itself can be moved around to work on different parts or equipment.
+This means the crane will be able to work with high access workplaces. Like forklifts and people moving matteriels. A gantry crane will create easy access to materiel bieng lifted and moved, to create easy acces to unloading and loading.
+In this project, we aim to simulate the oscillations of the load and the motion of the cart via different inputs and initial conditions and analyze them using the information provided. Contributor: Thomas Bourget
